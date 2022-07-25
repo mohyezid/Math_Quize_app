@@ -7,8 +7,8 @@ A dynamic simple Math qiize app developed using `DART PROGRAMMING CONCEPT`
 
 ### Features:
 
-outputs your earned points 
-give you the corrected answer \
+outputs your earned points \
+give you the corrected answer 
 
 ## Question or Feedback
 
