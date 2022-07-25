@@ -12,4 +12,4 @@ give you the corrected answer \
 
 ## Question or Feedback
 
-feel free to open an issue or find me [Mohammed at twittter]('https://twitter.com/MohammedYezid5')
+feel free to open an issue or find me [Mohammed at twittter](https://twitter.com/MohammedYezid5)
